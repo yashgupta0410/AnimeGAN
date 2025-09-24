@@ -1,4 +1,4 @@
-# AnimeFaceGAN 🎨
+# AnimeGAN
 
 This project implements a **Generative Adversarial Network (GAN)** trained on the [Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset) to generate realistic anime-style faces.  
 Built with **PyTorch**, the model uses a **CNN-based discriminator** and a **deconvolution-based generator**, both optimized with **Adam**.
